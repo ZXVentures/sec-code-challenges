@@ -42,7 +42,6 @@ Below, you can give a look on how these products are list now, but don't get cau
 ## How to deliver it
 Please, use Github to host your code.
 
-**Once you have finished the challenge, please submit your information on this amazing form:**
-  https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform
+**Once you have finished the challenge, please submit your information on this simple (and amazing) [form](https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform)**
 
 Good luck!

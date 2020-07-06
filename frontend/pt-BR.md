@@ -44,7 +44,6 @@ Abaixo, você pode ver como esses produtos são listados hoje, mas não se prend
 ## Como entregar
 Por favor, use Github para hospedar o seu código.
 
-**Depois de terminar o desafio, por favor envie no formulário abaixo:**
-  https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform
+**Depois de terminar o desafio, por favor através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform).**
 
 Boa sorte!

@@ -4,7 +4,7 @@
 Todo final de semana você planeja um churrasco para reunir amigos e família, então você gasta muito tempo no supermercado buscando por promoções ou carregando vários packs de cerveja pra ter certeza que ninguém irá precisar sair da festa para buscar mais.
 E se você não precisar passar mais por isso e ainda economizar tempo e dinheiro?
 
-Com o Sempre em Casa você pode automatizar a sua rotina de consumo, escolhendo as bebidas que você ama e receber quando você precisar, sem burocracia ou taxas! E o preço é melhor ou igual ao que você encontra no mercado mais próximo. Legal né?
+Com o [Sempre em Casa](https://sempreemcasa.com.br) você pode automatizar a sua rotina de consumo, escolhendo as bebidas que você ama e receber quando você precisar, sem burocracia ou taxas! E o preço é melhor ou igual ao que você encontra no mercado mais próximo. Legal né?
 
 Nós acreditamos que todos merecem ter sua rotina de consumo facilitada, não importa como e quando. Para realizar isso, usamos tecnologia.
 
@@ -22,6 +22,7 @@ Esperamos que você esteja ansioso para enfrentar um de nossos desafios de códi
 
 * Por favor, não abra um PR para enviar o seu desafio.
 * Por favor, não faça um fork desse repositório.
-* **Depois de terminar o desafio, por favor envie no formulário abaixo:**
-  https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform
+* **Depois de terminar o desafio, por favor através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform).**
+
+  
 
