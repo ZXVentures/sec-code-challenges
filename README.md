@@ -2,5 +2,5 @@
 
 ## Choose your language / Escolha o seu idioma
 
-- [Inglês](en-US.md)
-- [Português](pt-BR.md)
+- [English / Inglês](en-US.md)
+- [Portuguese / Português](pt-BR.md)

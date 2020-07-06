@@ -21,9 +21,12 @@ The objective of this challenge is to build a catalog page for some products of 
 - It must be possible to view the cart with the items you've added (name, image, price, quantity) and the grand total.
 - The cart should be persisted between reloads.
 
+Below, you can give a look on how these products are list now, but don't get caught up in it, use your creativity:
+![Products List](files/images/products.png)
+
 ## Bonus points
 - Easy? So add more functionality to cart allowing users to add, remove and change quantity of cart items.
-- Want more challenges? Add a search box or filter by brand.
+- Want more challenges? Add a search box and/or filter by brand from [brands.json](files/brands.json).
 - Test your application and components, it will be a big bonus point.
 
 ## What we will evaluate

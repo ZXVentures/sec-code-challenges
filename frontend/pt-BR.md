@@ -23,9 +23,12 @@ O objetivo deste desafio é criar uma página de catálogo para alguns produtos 
 - Deve ser possível visualizar o carrinho com os itens adicionados (nome, imagem, preço, quantidade) e o total geral.
 - O carrinho deve persistir entre os reloads.
 
+Abaixo, você pode ver como esses produtos são listados hoje, mas não se prenda a isso, use a sua criatividade:
+![Products List](files/images/products.png)
+
 ## Pontos bônus
 - Fácil? Portanto, adicione mais funcionalidade ao carrinho, permitindo aos usuários adicionar, remover e alterar as quantidades de itens do carrinho.
-- Quer mais desafios? Adicione uma caixa de pesquisa ou um filtro de marcas.
+- Quer mais desafios? Adicione uma caixa de pesquisa e/ou um filtro de marcas usando o arquivo [brands.json](files/brands.json).
 - Teste sua aplicação e componentes, será um grande bônus.
 
 ## O que avaliaremos
