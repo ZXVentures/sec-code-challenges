@@ -2,7 +2,7 @@
 
 ## About the Challenge
 
-In this [json](warehouses.json) you will find data about two warehouses with the following format:
+In this [json](files/warehouses.json) you will find data about two warehouses with the following format:
 ```javascript
 {
   "warehouses": [ 
@@ -31,7 +31,7 @@ In this [json](warehouses.json) you will find data about two warehouses with the
 
 Below, you can give a look on how these warehouses might be represented in a map:
 
-![Warehouses in map](../files/images/warehouses.png)
+![Warehouses in map](files/images/warehouses.png)
 
 Before talking about the challenge itself, let me give you some information about the warehouses specifications:
 
