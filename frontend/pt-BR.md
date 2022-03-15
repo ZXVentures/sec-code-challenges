@@ -8,6 +8,7 @@ O objetivo deste desafio é criar uma página de catálogo para alguns produtos 
 - Todos os produtos de [products.json](files/products.json) devem ser exibidos.
 - Você precisa usar React ou Next.JS do zero sem usar o create-react-app e não se esqueça de adicionar instruções sobre como executar o projeto.
 - Não peça a seus amigos para resolver o desafio para você. Você precisará explicar suas escolhas pessoalmente.
+- Não use frameworks de componentes como Bootstrap, Material UI e outros. (Queremos ver suas habilidades na criação de componentes :D)
 
 ## Requisitos
 - O aplicativo deve ser responsivo. Use uma abordagem **mobile-first**.

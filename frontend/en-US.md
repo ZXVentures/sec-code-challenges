@@ -6,6 +6,7 @@ The objective of this challenge is to build a catalog page for some products of 
 - All products from [products.json](files/products.json) must be shown.
 - You need to use React or Next from scratch without using create-react-app and don't forget to add instructions on how to run the project.
 - Do not ask your friends to solve the challenge for you. You'll need to explain your choices in person.
+- Do not use component frameworks as Bootstrap, Material UI and so on. (We want to see your skills on component creation :D)
 
 ## Requirements
 - The app must be responsive. Use a **mobile-first** approach.
