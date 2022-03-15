@@ -42,8 +42,6 @@ Abaixo, você pode ver como esses produtos são listados hoje, mas não se prend
 - O desafio é mais difícil do que você esperava? Gostaria de mostrar sua experiência com outra coisa? Entre em contato conosco abrindo um _issue_.
 
 ## Como entregar
-Por favor, use Github para hospedar o seu código.
-
-**Depois de terminar o desafio, por favor através deste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform).**
+Por favor, utilize o Github para hospedar seu código e adicione @ze-engineering-code-challenge como um colaborador do repositório. Essa conta do Github (@ze-engineering-code-challenge) é usado exclusivamente pelo time de Engenharia do Zé para baixar o seu código e revisá-lo
 
 Boa sorte!

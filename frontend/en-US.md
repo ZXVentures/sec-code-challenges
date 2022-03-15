@@ -40,8 +40,6 @@ Below, you can give a look on how these products are list now, but don't get cau
 - The challenge is harder than you anticipated? Would you like to show your experience with something else? Contact us by opening an _issue_.
 
 ## How to deliver it
-Please, use Github to host your code.
-
-**Once you have finished the challenge, please submit your information on this simple (and amazing) [form](https://docs.google.com/forms/d/e/1FAIpQLSeUkQci7eHBb7SRM9oBGMrGfrzM24PGzsPoIKgW4UV1lC0hTQ/viewform)**
+Please, use Github to host your code and add @ze-engineering-code-challenge as a collaborator for it. This Github account (@ze-engineering-code-challenge) is solely used by Zé's engineers to download your code and review it
 
 Good luck!
